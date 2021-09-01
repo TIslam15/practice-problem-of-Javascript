@@ -20,6 +20,7 @@ function friend(a)
     }
   }
 }
+ 
 
 
 
